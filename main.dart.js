@@ -57727,7 +57727,7 @@ r[1]=r[1]+s[1]
 r[2]=r[2]+s[2]
 r[3]=r[3]+s[3]}}
 A.yj.prototype={
-I(a){return new A.rs(B.yA,"Flutter Demo",A.abp(null,A.agL(B.O,B.CZ),!0),!1,null)}}
+I(a){return new A.rs(B.yA,"Gamifica\xe7\xe3o",A.abp(null,A.agL(B.O,B.CZ),!0),!1,null)}}
 A.p6.prototype={
 a8(){return new A.uT(B.j)}}
 A.uT.prototype={
@@ -57844,27 +57844,33 @@ s.d=s.r[r]
 break}},
 Fy(a,b){this.aw(new A.a0B(this,b))
 A.TE(a).GG(null)},
-I(a){var s,r,q,p,o,n,m,l,k,j,i=this,h=null,g=t.w,f=A.cg(a,h,g).w.a.a,e=A.cg(a,h,g).w.a.b
-$label0$0:{if(f<512){s=16
+I(a){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e=t.w,d=A.cg(a,f,e).w.a.a,c=A.cg(a,f,e).w.a.b
+$label0$0:{if(d<512){s=0
 r=16
-break $label0$0}if(f<1024){r=f*0.1
-s=e*0.1
-break $label0$0}r=f*0.2
-s=e*0.15}g=A.A(a).ax
-q=g.k2
-g=q==null?g.c:q
-q=A.aG(i.d,h,h)
-p=!0
-p=p?B.uC:h
-o=A.a99(new A.Ao(A.R(51,255,255,255),B.h8),B.va,B.uM)
-n=A.a63(A.d6(new A.DV(i.e,h),h,h))
-m=i.f
-m=m===0?A.eF(h,h,B.w,h,h,h,h,h,h,h,h,h,h):new A.Er(new A.a0y(i),h,h,h,h,B.w,h,!1,h,A.VU(A.a([B.yH,A.eF(h,h,B.w,h,h,h,h,h,h,h,h,h,8),A.aG(i.r[m-1],h,h)],t.p),B.bA,B.f8,B.ct),h)
-l=A.a63(A.eF(h,h,B.w,h,h,h,h,h,h,h,h,h,h))
-k=i.f
-k=k===13?A.eF(h,h,B.w,h,h,h,h,h,h,h,h,h,h):new A.AD(new A.a0z(i),h,h,h,h,B.w,h,!1,h,A.VU(A.a([A.aG(i.r[k+1],h,h),A.eF(h,h,B.w,h,h,h,h,h,h,h,h,h,8),B.yJ],t.p),B.bA,B.f8,B.ct),h)
-j=t.p
-return new A.tC(new A.pn(q,g,new A.J5(h,h,1/0,56),h),A.eF(h,new A.e7(new A.b6(r,s,r,s),A.di(A.a([n,new A.e7(B.yb,A.VU(A.a([m,l,k],j),B.bA,B.f8,B.ct),h)],j),B.bA,B.X),h),B.w,h,h,new A.dz(h,o,h,h,h,h,B.aR),h,h,h,h,h,h,h),new A.Ac(new A.By(new A.Xf(new A.a0A(i),14,!0,!0,!0,h),B.at,B.b_,!1,h,h,p,!1,h,14,B.ay,B.EM,h,B.an,h),h),h)}}
+q=16
+p=16
+break $label0$0}if(d<1024){r=c*0.1
+q=d*0.1
+p=q
+s=r
+break $label0$0}r=c*0.1
+q=d*0.2
+p=q
+s=r}e=A.A(a).ax
+o=e.k2
+e=o==null?e.c:o
+o=A.aG(g.d,f,f)
+n=!0
+n=n?B.uC:f
+m=A.a99(new A.Ao(A.R(51,255,255,255),B.h8),B.va,B.uM)
+l=A.a63(A.d6(new A.DV(g.e,f),f,f))
+k=g.f
+k=k===0?A.eF(f,f,B.w,f,f,f,f,f,f,f,f,f,f):new A.Er(new A.a0y(g),f,f,f,f,B.w,f,!1,f,A.VU(A.a([B.yH,A.eF(f,f,B.w,f,f,f,f,f,f,f,f,f,8),A.aG(g.r[k-1],f,f)],t.p),B.bA,B.f8,B.ct),f)
+j=A.a63(A.eF(f,f,B.w,f,f,f,f,f,f,f,f,f,f))
+i=g.f
+i=i===13?A.eF(f,f,B.w,f,f,f,f,f,f,f,f,f,f):new A.AD(new A.a0z(g),f,f,f,f,B.w,f,!1,f,A.VU(A.a([A.aG(g.r[i+1],f,f),A.eF(f,f,B.w,f,f,f,f,f,f,f,f,f,8),B.yJ],t.p),B.bA,B.f8,B.ct),f)
+h=t.p
+return new A.tC(new A.pn(o,e,new A.J5(f,f,1/0,56),f),A.eF(f,new A.e7(new A.b6(q,s,p,r),A.di(A.a([l,new A.e7(B.yb,A.VU(A.a([k,j,i],h),B.bA,B.f8,B.ct),f)],h),B.bA,B.X),f),B.w,f,f,new A.dz(f,m,f,f,f,f,B.aR),f,f,f,f,f,f,f),new A.Ac(new A.By(new A.Xf(new A.a0A(g),14,!0,!0,!0,f),B.at,B.b_,!1,f,f,n,!1,f,14,B.ay,B.EM,f,B.an,f),f),f)}}
 A.a0B.prototype={
 $0(){var s=this.a
 s.f=this.b
