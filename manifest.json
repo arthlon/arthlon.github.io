@@ -1,11 +1,11 @@
 {
-    "name": "webpage",
-    "short_name": "webpage",
+    "name": "Gamificação",
+    "short_name": "Gamificação",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Gamificação na Escola",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

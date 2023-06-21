@@ -57980,7 +57980,7 @@ while(true)switch(s){case 0:s=2
 return A.a_(A.dx(A.cU("https://www.enemgame.com.br/",0,null)),$async$ho)
 case 2:return A.V(null,r)}})
 return A.W($async$ho,r)},
-I(a){var s,r,q,p,o,n,m,l=this,k=null,j=A.aG("Refer\xeancias Bibiogr\xe1ficas",A.A(a).p3.e,k),i=A.aV(k,k,A.A(a).p3.z,"\u2022\tCNN Brasil \u2013 "),h=A.A(a).p3.z.dj(B.T),g=A.dK(k,k)
+I(a){var s,r,q,p,o,n,m,l=this,k=null,j=A.aG("Refer\xeancias Bibliogr\xe1ficas",A.A(a).p3.e,k),i=A.aV(k,k,A.A(a).p3.z,"\u2022\tCNN Brasil \u2013 "),h=A.A(a).p3.z.dj(B.T),g=A.dK(k,k)
 g.ao=l.gVh()
 s=t.nO
 h=A.dH(k,k,B.Q,k,k,!0,k,A.aV(A.a([i,A.aV(k,g,h,"Gamifica\xe7\xe3o na educa\xe7\xe3o: entenda o que \xe9, import\xe2ncia e como pode ser usada")],s),k,k,k),B.u,k,k,1,B.H)
